@@ -12,3 +12,4 @@ wheels/
 *.pckl
 
 .DS_Store
+.env
